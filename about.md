@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: About Sygyz
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Sygyz is a nonsensical moniker I go by. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+This blog exists for the soul purpose of documenting my pursuit of learning front-end web development.
+
+All web dev things can be found here. Rants are here.
