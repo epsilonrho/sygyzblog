@@ -1,7 +1,7 @@
 
 # The beginning 
 
-![hello world] (https://i.ytimg.com/vi/zecueq-mo4M/maxresdefault.jpg)
+![hello world](https://i.ytimg.com/vi/zecueq-mo4M/maxresdefault.jpg)
 
 I’ve been a proponent of internet driven technologies ever since I laid my hands on them. My understanding of the web has always been superficial. Last month I decided to learn front-end web technologies to gain what they call “marketable” skills. 
 
