@@ -17,7 +17,7 @@ title: Sygyz
 email: q@sygyz.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   Learning frontend development & random thoughts
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/sygyzblog/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anonsapiens
 github_username:  epsilonrho
